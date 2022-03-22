@@ -79,6 +79,13 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
+                        href="https://twitter.com/Oity_OIT/status/1504105530557534223"
+                        target="_blank"
+                        rel="noopener noreferrer">
+                        年間行事日程表の見方
+                    </CustomLink>
+                    <br />
+                    <CustomLink
                         href="https://ufinity.lib.oit.ac.jp/"
                         target="_blank"
                         rel="noopener noreferrer">
@@ -100,7 +107,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/"
+                        href="https://www.oit.ac.jp/japanese/club/"
                         target="_blank"
                         rel="noopener noreferrer">
                         クラブ・サークルサイト
@@ -130,6 +137,13 @@ export const LinkList = () => {
                 </TabPanel>
                 <TabPanel value="2">
                     <CustomLink
+                        href="https://www.oit.ac.jp/japanese/center/portal/share/pdf/gyouji-jou.pdf"
+                        target="_blank"
+                        rel="noopener noreferrer">
+                        行事日程表(情報科学部/大学院)
+                    </CustomLink>
+                    <br />
+                    <CustomLink
                         href="https://www.oit.ac.jp/japanese/oit/access_hirakata.html"
                         target="_blank"
                         rel="noopener noreferrer">
@@ -158,7 +172,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/is/projects/index.html"
+                        href="https://www.oit.ac.jp/is/projects/index.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         学生プロジェクト
@@ -166,6 +180,27 @@ export const LinkList = () => {
                     <br />
                 </TabPanel>
                 <TabPanel value="3">
+                    <CustomLink
+                        href="https://www.oit.ac.jp/japanese/center/portal/share/pdf/gyouji-kou.pdf"
+                        target="_blank"
+                        rel="noopener noreferrer">
+                        行事日程表(工学部/大学院)
+                    </CustomLink>
+                    <br />
+                    <CustomLink
+                        href="https://www.oit.ac.jp/japanese/center/portal/share/pdf/gyouji-tizai-bu.pdf"
+                        target="_blank"
+                        rel="noopener noreferrer">
+                        行事日程表(知的財産学部)
+                    </CustomLink>
+                    <br />
+                    <CustomLink
+                        href="https://www.oit.ac.jp/japanese/center/portal/share/pdf/gyouji-tizai-in.pdf"
+                        target="_blank"
+                        rel="noopener noreferrer">
+                        行事日程表(専門職大学院知的財産研究科)
+                    </CustomLink>
+                    <br />
                     <CustomLink
                         href="https://www.oit.ac.jp/japanese/oit/access_omiya.html"
                         target="_blank"
@@ -183,7 +218,14 @@ export const LinkList = () => {
                 </TabPanel>
                 <TabPanel value="4">
                     <CustomLink
-                        href="http://www.oit.ac.jp/rd/umeda/index.html"
+                        href="https://www.oit.ac.jp/japanese/center/portal/share/pdf/gyouji-robo.pdf"
+                        target="_blank"
+                        rel="noopener noreferrer">
+                        行事日程表(ロボティクス＆デザイン工学部/大学院)
+                    </CustomLink>
+                    <br />
+                    <CustomLink
+                        href="https://www.oit.ac.jp/rd/umeda/index.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         マップ
@@ -239,14 +281,35 @@ export const LinkList = () => {
                         href="https://twitter.com/OIT_pr"
                         target="_blank"
                         rel="noopener noreferrer">
-                        大阪工業大学【公式】
+                        大阪工業大学【公式】| Twitter
                     </CustomLink>
                     <br />
                     <CustomLink
                         href="https://twitter.com/oit_jyoho"
                         target="_blank"
                         rel="noopener noreferrer">
-                        工大 情報科学部事務室【公式】
+                        工大 情報科学部事務室【公式】| Twitter
+                    </CustomLink>
+                    <br />
+                    <CustomLink
+                        href="https://www.instagram.com/oit_daikoudai/"
+                        target="_blank"
+                        rel="noopener noreferrer">
+                        大阪工業大学【公式】| Instagram
+                    </CustomLink>
+                    <br />
+                    <CustomLink
+                        href="https://www.facebook.com/OITtopics"
+                        target="_blank"
+                        rel="noopener noreferrer">
+                        大阪工業大学（Osaka Institute of Technology）| Facebook
+                    </CustomLink>
+                    <br />
+                    <CustomLink
+                        href="https://www.youtube.com/user/OITPublicity"
+                        target="_blank"
+                        rel="noopener noreferrer">
+                        OITPublicity | YouTube
                     </CustomLink>
                     <br />
                 </TabPanel>
@@ -287,7 +350,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/203.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/203.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】剣道部
@@ -301,21 +364,21 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/204.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/204.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮・枚方】空手道部
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/205.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/205.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】北道院拳法部
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/206.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/206.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮・枚方】洋弓部
@@ -329,14 +392,14 @@ export const LinkList = () => {
                     </CustomLink>
                     <CustomLink
                         marginLeft={2}
-                        href="http://oitarcheryclub.web.fc2.com/"
+                        href="https://oitarcheryclub.web.fc2.com/"
                         target="_blank"
                         rel="noopener noreferrer">
                         Website
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/207.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/207.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮・枚方】ラグビー部
@@ -350,21 +413,21 @@ export const LinkList = () => {
                     </CustomLink>
                     <CustomLink
                         marginLeft={2}
-                        href="http://www.kodai-rugby.com/nextstep/category/blog"
+                        href="https://www.kodai-rugby.com/nextstep/category/blog"
                         target="_blank"
                         rel="noopener noreferrer">
                         Website
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/208.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/208.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】ボクシング部
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/209.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/209.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮・枚方】サッカー部
@@ -378,7 +441,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/210.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/210.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】ハンドボール部
@@ -392,7 +455,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/211.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/211.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】バレーボール部
@@ -406,7 +469,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/212.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/212.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】バスケットボール部
@@ -420,14 +483,14 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/213.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/213.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】卓球部
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/214.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/214.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮・枚方】バドミントン部
@@ -441,7 +504,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/215.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/215.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮・枚方】硬式庭球部
@@ -462,14 +525,14 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/216.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/216.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】軟式庭球部
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/217.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/217.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮・枚方】硬式野球部
@@ -483,7 +546,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <CustomLink
                         marginLeft={2}
-                        href="http://www.osaka-it-bbc.com/"
+                        href="https://www.osaka-it-bbc.com/"
                         target="_blank"
                         rel="noopener noreferrer">
                         Website
@@ -497,7 +560,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/218.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/218.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】漕艇部
@@ -525,7 +588,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/219.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/219.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮・枚方】準硬式野球部
@@ -539,7 +602,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/220.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/220.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】水上競技部
@@ -553,14 +616,14 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/221.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/221.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】航空部
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/222.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/222.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】アイスホッケー部
@@ -581,14 +644,14 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/223.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/223.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】自動車部
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/224.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/224.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】クライミングスポーツ部
@@ -602,7 +665,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/225.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/225.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】ワンダーフォーゲル部
@@ -616,21 +679,21 @@ export const LinkList = () => {
                     </CustomLink>
                     <CustomLink
                         marginLeft={2}
-                        href="http://www.oit-wangel.net/"
+                        href="https://www.oit-wangel.net/"
                         target="_blank"
                         rel="noopener noreferrer">
                         Website
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/226.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/226.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】日本拳法部
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/227.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/227.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】合気拳法部
@@ -644,7 +707,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/228.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/228.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】体操部
@@ -658,7 +721,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/229.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/229.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】ゴルフ部
@@ -672,7 +735,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/230.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/230.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】サイクリング部
@@ -686,7 +749,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/231.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/231.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】スキー部
@@ -700,14 +763,14 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/232.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/232.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】カヌー部
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/233.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/233.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】アメリカンフットボール部
@@ -735,14 +798,14 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/234.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/234.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮・枚方】ソフトボール部
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/235.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/235.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】テコンドー部
@@ -756,7 +819,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/236.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/236.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】フットサル部
@@ -770,14 +833,14 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/237.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/237.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】合気道部
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/238.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/238.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮・枚方】ストリートダンス部
@@ -798,7 +861,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-sports/1201.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-sports/1201.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【枚方】情報科学部 軟式野球部
@@ -807,7 +870,7 @@ export const LinkList = () => {
                 </TabPanel>
                 <TabPanel value="8">
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/100.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/100.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】文化会本部
@@ -821,21 +884,21 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/101.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/101.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】土木文化研究部
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/102.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/102.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】建築文化研究部
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/103.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/103.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】電気科学研究部
@@ -849,21 +912,21 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/104.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/104.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】機械工学研究部
                     </CustomLink>
                     <CustomLink
                         marginLeft={2}
-                        href="http://blog.livedoor.jp/kiken_oit/"
+                        href="https://blog.livedoor.jp/kiken_oit/"
                         target="_blank"
                         rel="noopener noreferrer">
                         Website
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/105.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/105.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】応用化学研究部
@@ -884,7 +947,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/106.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/106.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】電子工学研究部
@@ -898,7 +961,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/107.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/107.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】知財推進部
@@ -912,14 +975,14 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/108.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/108.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮・梅田】空間デザイン研究部
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/109.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/109.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】生命工学研究部
@@ -933,21 +996,21 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/110.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/110.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】環境工学研究部
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/111.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/111.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】美術部
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/112.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/112.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】写真研究部
@@ -961,7 +1024,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/113.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/113.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】演劇部
@@ -975,7 +1038,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/114.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/114.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】茶道部
@@ -989,7 +1052,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/115.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/115.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】ユースホステル部
@@ -1003,7 +1066,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/116.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/116.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】鉄道研究部
@@ -1017,14 +1080,14 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/117.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/117.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】将棋部
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/118.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/118.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】ボランティア教育研究会
@@ -1038,7 +1101,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/119.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/119.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】漫画研究部
@@ -1059,7 +1122,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/120.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/120.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】天文学研究部
@@ -1080,14 +1143,14 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/127.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/127.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮・梅田】E.S.S.（English Speaking Society）
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/129.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/129.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮・梅田】書道部
@@ -1108,7 +1171,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/130.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/130.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】城北水辺クラブ
@@ -1122,7 +1185,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/121.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/121.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】軽音楽部
@@ -1136,7 +1199,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/122.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/122.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】マンドリン部
@@ -1157,21 +1220,21 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/123.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/123.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】クラシックギター部
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/124.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/124.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】フォークソング部
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/125.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/125.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮・枚方】ウインドアンサンブル
@@ -1192,7 +1255,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/126.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/126.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】OCF軽音楽部
@@ -1206,7 +1269,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/128.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/128.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】コーラス部
@@ -1220,14 +1283,14 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/2101.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/2101.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【梅田】OIT梅田ボランティア部
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/2102.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/2102.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【梅田】イベントクリエイター部
@@ -1241,7 +1304,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/1101.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/1101.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【枚方】HxSコンピュータ部
@@ -1255,14 +1318,14 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/1102.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/1102.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【枚方】Creative NG
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/1103.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/1103.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【枚方】Creative Sound Lab
@@ -1276,14 +1339,14 @@ export const LinkList = () => {
                     </CustomLink>
                     <CustomLink
                         marginLeft={2}
-                        href="http://oitcslab.web.fc2.com/"
+                        href="https://oitcslab.web.fc2.com/"
                         target="_blank"
                         rel="noopener noreferrer">
                         Website
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/1104.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/1104.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【枚方】情報科学部軽音部
@@ -1297,14 +1360,14 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/1105.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/1105.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【枚方】ubiquitous Robot Lab.
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/1106.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/1106.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【枚方】ジャグリングクラブ
@@ -1318,7 +1381,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/1107.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/1107.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【枚方】Visual Acanthus Creation
@@ -1332,7 +1395,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/1108.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/1108.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【枚方】情報科学部文化表現部
@@ -1346,7 +1409,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/1109.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/1109.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【枚方】情報科学部ボランティア部
@@ -1360,7 +1423,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/1110.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/1110.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【枚方】情報科学部写真部
@@ -1374,7 +1437,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/1111.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/1111.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【枚方】情報科学部映画研究部
@@ -1388,7 +1451,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-culture/1113.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-culture/1113.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【枚方】模型部
@@ -1519,7 +1582,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-various/301.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-various/301.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】城北祭実行委員会
@@ -1547,7 +1610,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-various/2301.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-various/2301.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【梅田】茶屋町祭実行委員会
@@ -1575,7 +1638,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-various/1301.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-various/1301.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【枚方】北山祭実行委員会
@@ -1589,7 +1652,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-various/302.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-various/302.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】應援團
@@ -1603,14 +1666,14 @@ export const LinkList = () => {
                     </CustomLink>
                     <CustomLink
                         marginLeft={2}
-                        href="http://koudai-ouendan.sakura.ne.jp/"
+                        href="https://koudai-ouendan.sakura.ne.jp/"
                         target="_blank"
                         rel="noopener noreferrer">
                         Website
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-various/304.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-various/304.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】ボランティア・Link
@@ -1631,21 +1694,21 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-various/306.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-various/306.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】陶芸部
                     </CustomLink>
                     <CustomLink
                         marginLeft={2}
-                        href="http://www.oit.ac.jp/japanese/monolab/moon/index.html"
+                        href="https://www.oit.ac.jp/japanese/monolab/moon/index.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         Website
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-various/305.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-various/305.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】国際友好部
@@ -1659,7 +1722,7 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="http://www.oit.ac.jp/japanese/club/org-various/303.html"
+                        href="https://www.oit.ac.jp/japanese/club/org-various/303.html"
                         target="_blank"
                         rel="noopener noreferrer">
                         【大宮】留学生友好会
@@ -1715,10 +1778,12 @@ export const LinkList = () => {
                     <br />
                 </TabPanel>
                 <TabPanel value="14">
-                    <Typography variant="h3" color="red">
-                        Twitterアカウントは大学に監視されてるよ！
-                        発言には気をつけようね！
-                    </Typography>
+                    <CustomLink
+                        href="https://github.com/yashikota/OIT-Tools_homepage"
+                        target="_blank"
+                        rel="noopener noreferrer">
+                        このサイトのリポジトリ
+                    </CustomLink>
                 </TabPanel>
             </TabContext>
         </Box>

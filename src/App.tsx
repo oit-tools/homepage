@@ -123,7 +123,7 @@ export const App = () => {
                   color="inherit"
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="http://www.oit.ac.jp/japanese/students/list.php">
+                  href="https://www.oit.ac.jp/japanese/students/list.php">
                   OIT News (最新10件)
                 </Link>
               </Typography>
