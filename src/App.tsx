@@ -72,17 +72,9 @@ export const App = () => {
                 title="OITシラバスアプリ"
                 description="大阪工業大学の全学部・大学院に対応したシラバス閲覧アプリ
                     インクリメンタルサーチやフィルタリング、複数の年度にも対応"
-                image="https://raw.githubusercontent.com/yashikota/OIT-Tools_homepage/master/src/syllabus.webp"
-                url="https://syllabus.oit.yashikota.com" />
+                image="https://raw.githubusercontent.com/oit-tools/homepage/master/src/syllabus.webp"
+                url="https://v2.syllabus.oit.yashikota.com" />
             </Grid>
-            {/* <Grid item>
-              <MediaCard
-                title="OIT単位取得率チェッカー"
-                description="2018年度以降の授業アンケート結果・単位取得率が確認できるアプリ
-                    閲覧には学内のGoogleアカウントが必要"
-                image="https://raw.githubusercontent.com/yashikota/OIT-Tools_homepage/master/src/tani.webp"
-                url="https://tani.oit.yashikota.com" />
-            </Grid> */}
           </Grid>
           <Grid
             container
