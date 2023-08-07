@@ -110,7 +110,9 @@ export const App = () => {
           </Grid>
 
           <Grid
+            sx={{ flexGrow: 1, mb: "30px" }}
             container
+            spacing={3}
             alignItems="center"
             justifyContent="center">
             <Grid item xs={12} md={11} lg={8} mt={5}>
@@ -118,7 +120,7 @@ export const App = () => {
                 variant="h5"
                 component="div"
                 sx={{ textAlign: "center" }}>
-                便利かもしれないリンク集 (更新はしてません)
+                便利かもしれないリンク集
               </Typography>
               <LinkList />
             </Grid>

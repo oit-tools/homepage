@@ -93,24 +93,10 @@ export const LinkList = () => {
                     </CustomLink>
                     <br />
                     <CustomLink
-                        href="https://www.oit.ac.jp/japanese/toshokan/tosho/riyouannai.html"
-                        target="_blank"
-                        rel="noopener noreferrer">
-                        図書館の使い方等
-                    </CustomLink>
-                    <br />
-                    <CustomLink
                         href="https://www.oit.ac.jp/inside/jugyou_anq/"
                         target="_blank"
                         rel="noopener noreferrer">
                         授業アンケート結果・単位取得率(学内専用)
-                    </CustomLink>
-                    <br />
-                    <CustomLink
-                        href="https://www.oit.ac.jp/japanese/club/"
-                        target="_blank"
-                        rel="noopener noreferrer">
-                        クラブ・サークルサイト
                     </CustomLink>
                     <br />
                     <CustomLink
@@ -162,13 +148,6 @@ export const LinkList = () => {
                         target="_blank"
                         rel="noopener noreferrer">
                         Oityさんの過去の回答(マシュマロ)
-                    </CustomLink>
-                    <br />
-                    <CustomLink
-                        href="https://black092.github.io/oit_bus/"
-                        target="_blank"
-                        rel="noopener noreferrer">
-                        OITバス時刻表
                     </CustomLink>
                     <br />
                     <CustomLink
