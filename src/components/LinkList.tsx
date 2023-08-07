@@ -1779,7 +1779,7 @@ export const LinkList = () => {
                 </TabPanel>
                 <TabPanel value="14">
                     <CustomLink
-                        href="https://github.com/yashikota/OIT-Tools_homepage"
+                        href="https://github.com/oit-tools/homepage"
                         target="_blank"
                         rel="noopener noreferrer">
                         このサイトのリポジトリ

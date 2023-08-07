@@ -61,6 +61,7 @@ export const App = () => {
           <Header
             title="OIT Tools"
             url="https://oit.yashikota.com" />
+
           <Grid
             sx={{ flexGrow: 1, mt: "auto" }}
             container
@@ -84,30 +85,7 @@ export const App = () => {
                 url="https://credit.oit.yashikota.com" />
             </Grid>
           </Grid>
-          <Grid
-            container
-            alignItems="center"
-            justifyContent="center">
-            <Grid item xs={12} md={11} lg={8} mt={5}>
-              <Typography
-                variant="h5"
-                component="div"
-                sx={{ textAlign: "center" }}>
-                便利かもしれないリンク集
-              </Typography>
-              <LinkList />
-              <Typography
-                sx={{ textAlign: "center" }}>
-                <Link
-                  color="inherit"
-                  href="https://docs.google.com/forms/d/e/1FAIpQLSfBBgwEGXuAuRSlfAvolbKwhl8RK_mn7r442OU4DYPSJMa76w/viewform?usp=sf_link"
-                  target="_blank"
-                  rel="noopener noreferrer">
-                  リンクの追加・修正申請はこちら
-                </Link>
-              </Typography>
-            </Grid>
-          </Grid>
+
           <Grid
             sx={{ flexGrow: 1, mt: "auto" }}
             container
@@ -130,6 +108,22 @@ export const App = () => {
               <Feed />
             </Grid>
           </Grid>
+
+          <Grid
+            container
+            alignItems="center"
+            justifyContent="center">
+            <Grid item xs={12} md={11} lg={8} mt={5}>
+              <Typography
+                variant="h5"
+                component="div"
+                sx={{ textAlign: "center" }}>
+                便利かもしれないリンク集 (更新はしてません)
+              </Typography>
+              <LinkList />
+            </Grid>
+          </Grid>
+
         </ThemeProvider>
       </ColorModeContext.Provider>
     </>
