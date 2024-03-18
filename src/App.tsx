@@ -72,9 +72,9 @@ export const App = () => {
               <MediaCard
                 title="OITシラバスアプリ"
                 description="大阪工業大学の全学部・大学院に対応したシラバス閲覧アプリ。
-                    インクリメンタルサーチやフィルタリング、複数の年度にも対応。"
+                    インクリメンタルサーチやフィルタリングに対応。"
                 image="https://raw.githubusercontent.com/oit-tools/homepage/master/src/syllabus.webp"
-                url="https://v2.syllabus.oit.yashikota.com" />
+                url="https://syllabus.oit.yashikota.com?=hp" />
             </Grid>
             <Grid sx={{ m:1 }}>
               <MediaCard
@@ -82,7 +82,7 @@ export const App = () => {
                 description="授業アンケート結果&成績評価状況を確認できるアプリ。
                     情報保護のため閲覧には学内のMicrosoftアカウント認証が必要です。"
                 image="https://raw.githubusercontent.com/oit-tools/homepage/master/src/credit.webp"
-                url="https://credit.oit.yashikota.com" />
+                url="https://credit.oit.yashikota.com?=hp" />
             </Grid>
           </Grid>
 
