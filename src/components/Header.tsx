@@ -42,7 +42,7 @@ export const Header = (props: { title: string; url?: string; }) => {
                             sx={{ flexGrow: 1 }}>
                             <CustomLink
                                 target="_blank"
-                                rel="noopener noreferrer"
+                                rel="noopener"
                                 href={url}>
                                 {title}
                             </CustomLink>
