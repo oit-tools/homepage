@@ -73,7 +73,7 @@ export const App = () => {
                 title="OITシラバスアプリ"
                 description="大阪工業大学の全学部・大学院に対応したシラバス閲覧アプリ。
                     インクリメンタルサーチやフィルタリングに対応。"
-                image="%PUBLIC_URL%/syllabus.webp"
+                image="syllabus.webp"
                 url="https://syllabus.oit.yashikota.com?=hp" />
             </Grid>
             <Grid sx={{ m:1 }}>
@@ -81,7 +81,7 @@ export const App = () => {
                 title="OIT Credit App"
                 description="授業アンケート結果&成績評価状況を確認できるアプリ。
                     情報保護のため閲覧には学内のMicrosoftアカウント認証が必要です。"
-                image="%PUBLIC_URL%/credit.webp"
+                image="credit.webp"
                 url="https://credit.oit.yashikota.com?=hp" />
             </Grid>
           </Grid>
