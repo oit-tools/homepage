@@ -23,10 +23,10 @@ export const MediaCard = (props: any) => {
                     {title}
                 </Typography>
                 <Typography
-                    variant="body2"
+                    variant="body1"
                     color="text.secondary"
                     sx={{ minHeight: 60 }}
-                    >
+                >
                     {description}
                 </Typography>
             </CardContent>
