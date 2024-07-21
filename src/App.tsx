@@ -68,6 +68,7 @@ export const App = () => {
                             container
                             alignItems="center"
                             justifyContent="center">
+
                             <Grid
                                 sx={{ flexGrow: 1, mt: "1.5vh" }}
                             >
@@ -79,7 +80,8 @@ export const App = () => {
                                     url="https://syllabus.oit.yashikota.com?source=hp"
                                 />
                             </Grid>
-                            <Grid
+
+                            {/* <Grid
                                 sx={{ flexGrow: 1, mt: "1.5vh" }}
                             >
                                 <MediaCard
@@ -88,8 +90,9 @@ export const App = () => {
                                     image="bus.avif"
                                     url="https://bus.oit.yashikota.com?source=hp"
                                 />
-                            </Grid>
-                            <Grid
+                            </Grid> */}
+
+                            {/* <Grid
                                 sx={{ flexGrow: 1, mt: "1.5vh" }}
                             >
                                 <MediaCard
@@ -99,7 +102,8 @@ export const App = () => {
                                     image="credit.avif"
                                     url="https://credit.oit.yashikota.com?source=hp"
                                 />
-                            </Grid>
+                            </Grid> */}
+                            
                         </Grid>
 
                         <Grid
@@ -139,8 +143,8 @@ export const App = () => {
                                 <LinkList />
                             </Grid>
                         </Grid>
-                    </Container>
 
+                    </Container>
                 </ThemeProvider>
             </ColorModeContext.Provider>
         </>
